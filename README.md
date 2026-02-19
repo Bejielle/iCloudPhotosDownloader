@@ -16,6 +16,8 @@ A simple and efficient Python script to automatically download and organize all 
 - [`Python`](https://www.python.org/)
 - `pip` (Python package manager)
 
+⚠️ **Remember to enable the “Access iCloud data on the web” option in your iCloud settings.**
+
 ## Quick Start
 
 Get the downloader up and running locally.
